@@ -4,7 +4,7 @@ Super simple node.js sample.
 
 ## Multi Language Example
 
----
+
 
 Here is a short example showing you how to use information from the request to return a better response. In this example we check the requestor's language header to return a personalized greeting for their native tongue.
 
@@ -44,6 +44,6 @@ console.log("Server live @ http://localhost:8080");
 
 ## What else can you do?
 
----
+
 
 Just about anything! You can build a simple to-do list that hooks into a database, or even realtime chats and games and so much more! Node.js is extremely versatile and the `http` module is only a small portion of the tools available to you! I could include a cheesy cliche about the world being your oyster, or I could [link you to this useful article with some good starter project ideas](https://dev.to/hb/7-fullstack-projects-you-need-to-make-in-2021-bdn)!
