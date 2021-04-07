@@ -4,13 +4,13 @@ Super simple node.js sample.
 
 ## Install Node.js and NPM
 
----
+
 
 You can [download and install Node.js from here](https://nodejs.org/en/download/). Download the LTS version for your platform and then run the installer, follow all on screen instructions. By default an updated version of NPM comes installed with Node.js.
 
 ## Checking for Node.js and NPM
 
----
+
 
 Run the following command(s) to see if you have node.js and npm installed and on your PATH:
 
@@ -29,7 +29,7 @@ If you receive errors ensure that you have added node.js and npm to your PATH. Y
 
 ## Getting Started
 
----
+
 
 Navigate to your project directory (you may want to make a new one)\
 **Ex:**
@@ -73,7 +73,7 @@ Wrote to .\hello-world\package.json:
 
 ## Writing the Script
 
----
+
 
 While you can technically do all the following steps in the terminal I will be switching over to my IDE of choice VSCode. This will open your current directory in VSCode (you can also use the GUI to navigate here and can use any editor of your choice)
 
@@ -85,7 +85,7 @@ code . .
 
 ### Creating an Entry Point
 
----
+
 
 Make a new file named `index.js`
 
@@ -120,7 +120,7 @@ console.log("Server live @ http://localhost:8080");
 
 ## Testing the Server
 
----
+
 
 Switch back to your terminal window and run the following command:
 
