@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-hello-world",
+  "version": "1.0.0",
+  "description": "Super simple node.js sample.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinuulong/nodejs-hello-world.git"
+  },
+  "keywords": [],
+  "author": "Kevin Long <kevinuulong@gmail.com> (https://kevinuulong.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinuulong/nodejs-hello-world/issues"
+  },
+  "homepage": "https://github.com/kevinuulong/nodejs-hello-world#readme"
+}
